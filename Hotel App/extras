@@ -1,0 +1,50 @@
+(get) hotels>         https://developerfunnel.herokuapp.com/hotels
+(get) hotelwrtcity >  https://developerfunnel.herokuapp.com/hotels?city=6
+(get) hoteldetails >  https://developerfunnel.herokuapp.com/hotelsdetails/1
+(get) onbasisoftrip > https://developerfunnel.herokuapp.com/hotellist/1
+(get) roomfilter >    https://developerfunnel.herokuapp.com/hotellist/1?roomtype=1
+(get) costfilter >    https://developerfunnel.herokuapp.com/hotellist/1?hcost=1000&lcost=500
+(get) cityname >      https://developerfunnel.herokuapp.com/location
+(get) rooms >         https://developerfunnel.herokuapp.com/rooms
+(get) triptype>       https://developerfunnel.herokuapp.com/booking
+(get) bookingdetails> https://developerfunnel.herokuapp.com/allBooking
+(post)placebooking >  https://developerfunnel.herokuapp.com/placeBook
+
+
+
+Pages --->
+
+Header
+----------
+Home
+    > Search
+    > Quick Search
+Listing
+    > Suggestion
+    > Room Filter
+    > Cost Filter
+    > Listing
+Details
+Place Booking
+Booking
+----------
+Footer
+
+
+
+Additional packages of react used here are --->
+
+React-tabs
+React-slick 
+
+
+For making dummy json data --->
+
+    > install:-  npm i -g json-server
+    > create:- json file like db.json here
+    > run cmd:- json-server --watch db.json --port 8900
+
+Login with github --->
+    Hit this link & then post code data on api given.
+    > https://github.com/login/oauth/authorize?client_id=100cc18d754140bbced1
+    > http://localhost:3001/user

@@ -1,0 +1,89 @@
+{
+  "bookings": [
+    {
+      "id": 776,
+      "hotelName": "DoubleTree by Hilton",
+      "name": "manoj",
+      "phone": "76968",
+      "status": "pending"
+    },
+    {
+      "id": 924,
+      "hotelName": "The Taj Mahal Palace",
+      "name": "sawan",
+      "phone": "78586587",
+      "status": "pending"
+    },
+    {
+      "id": 825,
+      "hotelName": "The Ashtan Sarovar Portico",
+      "name": "Sawan_10",
+      "phone": "6546867",
+      "status": "pending"
+    },
+    {
+      "id": 784,
+      "hotelName": "Snow Bliss",
+      "name": "moni",
+      "phone": "232532",
+      "status": "pending"
+    },
+    {
+      "id": 668,
+      "hotelName": "Snow Bliss",
+      "name": "moni",
+      "phone": "3535546",
+      "status": "pending"
+    },
+    {
+      "id": 263,
+      "hotelName": "Snow Bliss",
+      "name": "ajit",
+      "phone": "21424354758",
+      "status": "pending"
+    },
+    {
+      "id": 689,
+      "hotelName": "Snow Bliss",
+      "name": "rohit",
+      "phone": "12345678",
+      "status": "pending"
+    },
+    {
+      "id": 759,
+      "hotelName": "Snow Bliss",
+      "name": "manoj",
+      "phone": "3535546",
+      "status": "pendind"
+    },
+    {
+      "id": 207,
+      "hotelName": "The Corinthians Resort",
+      "name": "Shaktimaan",
+      "phone": "9967436548",
+      "status": "pendind"
+    },
+    {
+      "id": 15,
+      "hotelName": "The Ashtan Sarovar Portico",
+      "name": "manoj",
+      "phone": "868756",
+      "status": "pendind"
+    },
+    {
+      "id": 304,
+      "hotelName": "The Taj Mahal Palace",
+      "name": "Sujit",
+      "phone": "96754327",
+      "status": "pendind"
+    },
+    {
+      "id": 986,
+      "hotelName": "The Piccadily",
+      "name": "Sawankumar",
+      "bookingDate": "2020-11-30",
+      "phone": "9976453246",
+      "status": "pendind"
+    }
+  ]
+}
